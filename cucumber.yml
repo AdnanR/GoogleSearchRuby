@@ -1,0 +1,1 @@
+htmlrpt: -f html -o results/results.html -f pretty BASEURL=<%= 'http://www.google.com' %>
